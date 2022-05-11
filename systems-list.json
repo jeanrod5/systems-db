@@ -1,0 +1,244 @@
+{
+    "systems_list":[
+    {
+        "id": 1,
+        "supplier_name": "Bokun",
+        "quality_status": "Gold",
+        "capabilities": [
+            {
+            "tour_list": "Y",
+            "batch_availability": "Y",
+            "real_time_availability": "Y",
+            "booking": "Y",
+            "booking_cancellation": "Y",
+            "booking_amendment": "Y",
+            "timed_entry": "Y",
+            "clc_email": "Y",
+            "barcodes": "Y"
+        }
+    ],
+        "stats":[ 
+        {
+            "avg_availablity_speed": "0.25",
+            "booking_failure_rate": "1.4%"
+        }
+    ]
+    },
+    {
+        "id": 2,
+        "supplier_name": "Fareharbor",
+        "quality_status": "Gold",
+        "capabilities": [
+            {
+            "tour_list": "Y",
+            "batch_availability": "Y",
+            "real_time_availability": "Y",
+            "booking": "Y",
+            "booking_cancellation": "Y",
+            "booking_amendment": "Y",
+            "timed_entry": "Y",
+            "clc_email": "Y",
+            "barcodes": "Y"
+        }
+    ],
+        "stats":[ 
+        {
+            "avg_availablity_speed": ".93",
+            "booking_failure_rate": "0.2%"
+        }
+    ]
+    },
+    {
+        "id": 3,
+        "supplier_name": "Rezdy",
+        "quality_status": "Gold",
+        "capabilities": [
+            {
+            "tour_list": "Y",
+            "batch_availability": "Y",
+            "real_time_availability": "Y",
+            "booking": "Y",
+            "booking_cancellation": "Y",
+            "booking_amendment": "Y",
+            "timed_entry": "Y",
+            "clc_email": "Y",
+            "barcodes": "Y"
+        }
+    ],
+        "stats":[ 
+        {
+            "avg_availablity_speed": "0.19",
+            "booking_failure_rate": "0.5%"
+        }
+    ]
+    },
+    {
+        "id": 4,
+        "supplier_name": "PeekPro",
+        "quality_status": "Silver",
+        "capabilities": [
+            {
+            "tour_list": "Y",
+            "batch_availability": "Y",
+            "real_time_availability": "Y",
+            "booking": "Y",
+            "booking_cancellation": "Y",
+            "booking_amendment": "Y",
+            "timed_entry": "N",
+            "clc_email": "Y",
+            "barcodes": "N"
+        }
+    ],
+        "stats":[ 
+        {
+            "avg_availablity_speed": "1.82",
+            "booking_failure_rate": "0.7%"
+        }
+    ]
+    },
+    {
+        "id": 5,
+        "supplier_name": "Bookeo",
+        "quality_status": "Silver",
+        "capabilities": [
+            {
+            "tour_list": "Y",
+            "batch_availability": "Y",
+            "real_time_availability": "Y",
+            "booking": "Y",
+            "booking_cancellation": "Y",
+            "booking_amendment": "Y",
+            "timed_entry": "Y",
+            "clc_email": "Y",
+            "barcodes": "N"
+        }
+    ],
+        "stats":[ 
+        {
+            "avg_availablity_speed": "0.21",
+            "booking_failure_rate": "0.4%"
+        }
+    ]
+    },
+    {
+        "id": 6,
+        "supplier_name": "Regiondo",
+        "quality_status": "Gold",
+        "capabilities": [
+            {
+            "tour_list": "Y",
+            "batch_availability": "Y",
+            "real_time_availability": "Y",
+            "booking": "Y",
+            "booking_cancellation": "Y",
+            "booking_amendment": "Y",
+            "timed_entry": "Y",
+            "clc_email": "Y",
+            "barcodes": "Y"
+        }
+    ],
+        "stats":[ 
+        {
+            "avg_availablity_speed": "0.89",
+            "booking_failure_rate": "1.5%"
+        }
+    ]
+    },
+    {
+        "id": 7,
+        "supplier_name": "XOLA",
+        "quality_status": "Silver",
+        "capabilities": [
+            {
+            "tour_list": "Y",
+            "batch_availability": "Y",
+            "real_time_availability": "Y",
+            "booking": "Y",
+            "booking_cancellation": "Y",
+            "booking_amendment": "Y",
+            "timed_entry": "Y",
+            "clc_email": "N",
+            "barcodes": "N"
+        }
+    ],
+        "stats":[ 
+        {
+            "avg_availablity_speed": "0.14",
+            "booking_failure_rate": "0.2%"
+        }
+    ]
+    },
+    {
+        "id": 8,
+        "supplier_name": "Checkfront",
+        "quality_status": "Silver",
+        "capabilities": [
+            {
+            "tour_list": "Y",
+            "batch_availability": "Y",
+            "real_time_availability": "Y",
+            "booking": "Y",
+            "booking_cancellation": "N",
+            "booking_amendment": "N",
+            "timed_entry": "N",
+            "clc_email": "N",
+            "barcodes": "Y"
+        }
+    ],
+        "stats":[ 
+        {
+            "avg_availablity_speed": "0.27",
+            "booking_failure_rate": "1.1%"
+        }
+    ]
+    },
+    {
+        "id": 9,
+        "supplier_name": "Bookingkit",
+        "quality_status": "Gold",
+        "capabilities": [
+            {
+            "tour_list": "Y",
+            "batch_availability": "Y",
+            "real_time_availability": "Y",
+            "booking": "Y",
+            "booking_cancellation": "Y",
+            "booking_amendment": "Y",
+            "timed_entry": "Y",
+            "clc_email": "Y",
+            "barcodes": "Y"
+        }
+    ],
+        "stats":[ 
+        {
+            "avg_availablity_speed": "0.27",
+            "booking_failure_rate": "0.3%"
+        }
+    ]
+    },
+    {
+        "id": 10,
+        "supplier_name": "Trekksoft",
+        "quality_status": "Gold",
+        "capabilities": [
+            {
+            "tour_list": "Y",
+            "batch_availability": "Y",
+            "real_time_availability": "Y",
+            "booking": "Y",
+            "booking_cancellation": "Y",
+            "booking_amendment": "Y",
+            "timed_entry": "Y",
+            "clc_email": "Y",
+            "barcodes": "Y"
+        }
+    ],
+        "stats":[ 
+        {
+            "avg_availablity_speed": "0.22",
+            "booking_failure_rate": "0.2%"
+        }
+    ]
+    }
+    ]
+}
