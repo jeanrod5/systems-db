@@ -159,14 +159,14 @@
         "quality_status": "Gold",
         "capabilities":[
             "Tour List",
-            "Batch Availability",
-            "Real-Time Availability",
-            "Booking",
-            "Booking Cancellation",
-            "Booking Amendment",
-            "Timed Entry",
-            "Travler Protected Email",
-            "Barcodes"
+            " Batch Availability",
+            " Real-Time Availability",
+            " Booking",
+            " Booking Cancellation",
+            " Booking Amendment",
+            " Timed Entry",
+            " Travler Protected Email",
+            " Barcodes"
         ],
         "avg_availablity_speed": "0.22",
         "booking_failure_rate": "0.2%"
