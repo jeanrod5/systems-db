@@ -5,15 +5,15 @@
         "system_name": "System #1",
         "quality_status": "Gold",
         "capabilities":[
-            "tour_list",
-            "batch_availability",
-            "real_time_availability",
-            "booking",
-            "booking_cancellation",
-            "booking_amendment",
-            "timed_entry",
-            "clc_email",
-            "barcodes"
+            "Tour List",
+            "Batch Availability",
+            "Real-Time Availability",
+            "Booking",
+            "Booking Cancellation",
+            "Booking Amendment",
+            "Timed Entry",
+            "Travler Protected Email",
+            "Barcodes"
         ],
         "avg_availablity_speed": "0.25",
         "booking_failure_rate": "1.4%"
@@ -23,17 +23,17 @@
         "system_name": "System #2",
         "quality_status": "Gold",
         "capabilities":[
-            "tour_list",
-            "batch_availability",
-            "real_time_availability",
-            "booking",
-            "booking_cancellation",
-            "booking_amendment",
-            "timed_entry",
-            "clc_email",
-            "barcodes"
+            "Tour List",
+            "Batch Availability",
+            "Real-Time Availability",
+            "Booking",
+            "Booking Cancellation",
+            "Booking Amendment",
+            "Timed Entry",
+            "Travler Protected Email",
+            "Barcodes"
         ],
-        "avg_availablity_speed": ".93",
+        "avg_availablity_speed": "0.93",
         "booking_failure_rate": "0.2%"
     },
     {
@@ -41,15 +41,15 @@
         "system_name": "System #3",
         "quality_status": "Gold",
         "capabilities":[
-            "tour_list",
-            "batch_availability",
-            "real_time_availability",
-            "booking",
-            "booking_cancellation",
-            "booking_amendment",
-            "timed_entry",
-            "clc_email",
-            "barcodes"
+            "Tour List",
+            "Batch Availability",
+            "Real-Time Availability",
+            "Booking",
+            "Booking Cancellation",
+            "Booking Amendment",
+            "Timed Entry",
+            "Travler Protected Email",
+            "Barcodes"
         ],
         "avg_availablity_speed": "0.19",
         "booking_failure_rate": "0.5%"
@@ -59,13 +59,13 @@
         "system_name": "System #4",
         "quality_status": "Silver",
         "capabilities":[
-            "tour_list",
-            "batch_availability",
-            "real_time_availability",
-            "booking",
-            "booking_cancellation",
-            "booking_amendment",
-            "clc_email"
+            "Tour List",
+            "Batch Availability",
+            "Real-Time Availability",
+            "Booking",
+            "Booking Cancellation",
+            "Booking Amendment",
+            "Travler Protected Email"
         ],
         "avg_availablity_speed": "1.82",
         "booking_failure_rate": "0.7%"
@@ -75,14 +75,14 @@
         "system_name": "System #5",
         "quality_status": "Silver",
         "capabilities":[
-            "tour_list",
-            "batch_availability",
-            "real_time_availability",
-            "booking",
-            "booking_cancellation",
-            "booking_amendment",
-            "timed_entry",
-            "clc_email"
+            "Tour List",
+            "Batch Availability",
+            "Real-Time Availability",
+            "Booking",
+            "Booking Cancellation",
+            "Booking Amendment",
+            "Timed Entry",
+            "Travler Protected Email"
         ],
         "avg_availablity_speed": "0.21",
         "booking_failure_rate": "0.4%"
@@ -92,15 +92,15 @@
         "system_name": "System #6",
         "quality_status": "Gold",
         "capabilities":[
-            "tour_list",
-            "batch_availability",
-            "real_time_availability",
-            "booking",
-            "booking_cancellation",
-            "booking_amendment",
-            "timed_entry",
-            "clc_email",
-            "barcodes"
+            "Tour List",
+            "Batch Availability",
+            "Real-Time Availability",
+            "Booking",
+            "Booking Cancellation",
+            "Booking Amendment",
+            "Timed Entry",
+            "Travler Protected Email",
+            "Barcodes"
         ],
         "avg_availablity_speed": "0.89",
         "booking_failure_rate": "1.5%"
@@ -110,13 +110,13 @@
         "system_name": "System #7",
         "quality_status": "Silver",
         "capabilities":[
-            "tour_list",
-            "batch_availability",
-            "real_time_availability",
-            "booking",
-            "booking_cancellation",
-            "booking_amendment",
-            "timed_entry"
+            "Tour List",
+            "Batch Availability",
+            "Real-Time Availability",
+            "Booking",
+            "Booking Cancellation",
+            "Booking Amendment",
+            "Timed Entry"
         ],
         "avg_availablity_speed": "0.14",
         "booking_failure_rate": "0.2%"
@@ -126,11 +126,11 @@
         "system_name": "System #8",
         "quality_status": "Silver",
         "capabilities":[
-            "tour_list",
-            "batch_availability",
-            "real_time_availability",
-            "booking",
-            "barcodes"
+            "Tour List",
+            "Batch Availability",
+            "Real-Time Availability",
+            "Booking",
+            "Barcodes"
         ],
         "avg_availablity_speed": "0.27",
         "booking_failure_rate": "1.1%"
@@ -140,15 +140,15 @@
         "system_name": "System #9",
         "quality_status": "Gold",
         "capabilities":[
-            "tour_list",
-            "batch_availability",
-            "real_time_availability",
-            "booking",
-            "booking_cancellation",
-            "booking_amendment",
-            "timed_entry",
-            "clc_email",
-            "barcodes"
+            "Tour List",
+            "Batch Availability",
+            "Real-Time Availability",
+            "Booking",
+            "Booking Cancellation",
+            "Booking Amendment",
+            "Timed Entry",
+            "Travler Protected Email",
+            "Barcodes"
         ],
         "avg_availablity_speed": "0.27",
         "booking_failure_rate": "0.3%"
@@ -158,15 +158,15 @@
         "system_name": "System #10",
         "quality_status": "Gold",
         "capabilities":[
-            "tour_list",
-            "batch_availability",
-            "real_time_availability",
-            "booking",
-            "booking_cancellation",
-            "booking_amendment",
-            "timed_entry",
-            "clc_email",
-            "barcodes"
+            "Tour List",
+            "Batch Availability",
+            "Real-Time Availability",
+            "Booking",
+            "Booking Cancellation",
+            "Booking Amendment",
+            "Timed Entry",
+            "Travler Protected Email",
+            "Barcodes"
         ],
         "avg_availablity_speed": "0.22",
         "booking_failure_rate": "0.2%"
